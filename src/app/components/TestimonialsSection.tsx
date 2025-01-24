@@ -12,7 +12,7 @@ export default function TestimonialsSection() {
     <div id="testimonials" className="py-16 bg-gradient-to-r from-blue-50 to-purple-50">
       <div className="max-w-4xl mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">What Parents Say About our Stories</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">What Parents Say About our Product</h2>
         </div>
 
         <div className="relative">
