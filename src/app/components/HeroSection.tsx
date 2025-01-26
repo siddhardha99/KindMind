@@ -14,20 +14,20 @@ export default function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 mb-12">
             <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-3 rounded-full text-lg font-medium hover:opacity-90 transition transform hover:scale-105">
-              Pre-order Now
+              Waitlist Coming Soon
             </button>
             <button className="bg-white text-blue-600 px-8 py-3 rounded-full text-lg font-medium border-2 border-blue-600 hover:bg-blue-50 transition">
               Watch Demo
             </button>
           </div>
           
-          <Alert className="max-w-2xl mx-auto bg-gradient-to-r from-blue-50 to-purple-50 border-blue-200">
+          {/* <Alert className="max-w-2xl mx-auto bg-gradient-to-r from-blue-50 to-purple-50 border-blue-200">
             <Star className="w-4 h-4 text-blue-600" />
             <AlertTitle>Early Bird Special</AlertTitle>
             <AlertDescription>
               First 100 pre-orders get 20% off and a free accessory pack
             </AlertDescription>
-          </Alert>
+          </Alert> */}
         </div>
       </div>
     </div>

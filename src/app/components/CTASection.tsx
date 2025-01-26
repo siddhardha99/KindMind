@@ -8,10 +8,10 @@ export default function CTASection() {
           <CardContent className="p-8 text-center">
             <h2 className="pt-10 text-3xl font-bold mb-4">Ready to Join the YiPi Family?</h2>
             <p className="text-lg mb-4 opacity-90">
-              Pre-order now and be among the first to experience the future of emotional learning
+             Join the Waitlist and be among the first to experience the future of emotional learning
             </p>
             <button className="bg-white text-blue-600 px-8 py-3 rounded-full text-lg font-medium hover:bg-blue-50 transition transform hover:scale-105">
-              Pre-order Now
+              Waitlist Coming Soon
             </button>
           </CardContent>
         </Card>
