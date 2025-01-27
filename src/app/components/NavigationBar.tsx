@@ -11,7 +11,7 @@ export default function NavigationBar() {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-blue-600">KindMind Labs</span>
+            <span className="text-2xl font-bold text-blue-600">YiPi Bear</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
