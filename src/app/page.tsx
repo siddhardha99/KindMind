@@ -14,9 +14,9 @@ export default function Home() {
     <main className="min-h-screen bg-white">
       <NavigationBar />
       <HeroSection/>
-      <StatsSection/>
+      {/* <StatsSection/> */}
       <FeaturesSection/>
-      <TestimonialsSection/>
+      {/* <TestimonialsSection/> */}
       <AboutSection/>
       <TeamSection/>
       <CTASection/>

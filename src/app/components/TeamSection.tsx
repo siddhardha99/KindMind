@@ -6,7 +6,7 @@ const teamMembers = [
   {
     name: "Yashwanth Nadella",
     role: "MS in Computer Science student at Johns Hopkins",
-    description: "Technical Development Lead",
+    description: "Software Engineer",
     icon: <Code className="w-6 h-6 text-blue-500" />,
     expertise: ["System Architecture", "Full Stack Development", "Product Design"]
   },
@@ -20,7 +20,7 @@ const teamMembers = [
   {
     name: "Siddardha Varma",
     role: "MS in Artificial Intelligence student at University of North Texas",
-    description: "AI Implementation Lead",
+    description: "AI Engineer",
     icon: <Brain className="w-6 h-6 text-purple-500" />,
     expertise: ["Machine Learning", "Natural Language Processing", "AI Systems"]
   }
@@ -31,7 +31,7 @@ export default function TeamSection() {
     <section className="py-16 px-4 bg-gradient-to-b from-blue-50 to-purple-50">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl font-bold mb-4 text-center bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-          Meet Our Team
+          Meet the Co-Founders
         </h2>
         <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
           Combining expertise in technology, mental health, and artificial intelligence
