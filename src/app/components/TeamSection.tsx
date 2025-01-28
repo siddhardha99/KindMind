@@ -11,7 +11,7 @@ const teamMembers = [
     expertise: ["System Architecture", "Full Stack Development", "Product Design"]
   },
   {
-    name: "Stephen Cheng",
+    name: "Dr.Stephen Cheng",
     role: "Resident Psychiatrist at University of Maryland / Sheppard Pratt",
     description: "Mental Health Expert",
     icon: <HeartPulse className="w-6 h-6 text-pink-500" />,
